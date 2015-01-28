@@ -59,6 +59,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginLeft="20dp"
         android:hint="Enter Rollno."
+        android:maxLength="6"
         android:inputType="number"
         android:textColor="#000000"
         android:id="@+id/edit2" />
